@@ -39,10 +39,5 @@ func main() {
 		} else {
 			fmt.Println(doctor.Response(userInput))
 		}
-
 	}
 }
-
-// func sayHelloWorld(whatToSay string) {
-// 	fmt.Println(whatToSay)
-// }
