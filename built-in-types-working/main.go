@@ -182,7 +182,7 @@ func main() {
 
 	fmt.Println(animals)
 
-	for i, x := range animals { // i is an index, and can be optional
+	for i, x := range animals { // i is an index, and can be optional (_)
 		fmt.Println(i, x)
 	}
 
